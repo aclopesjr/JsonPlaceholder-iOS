@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JsonPlaceholder"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "JsonPlaceholder API services."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "JsonPlaceholder Restful api services."
 
-  spec.homepage     = "https://github.com/aclopesjr/JsonPlaceholder-iOS"
+  spec.homepage     = "https://cocoapods.org/pods/JsonPlaceholder"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
